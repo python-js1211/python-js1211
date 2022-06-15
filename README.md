@@ -1,5 +1,5 @@
 <h4 align="left">Hi There👋,</h4>
-<h6 align="left">Xhulio Kasmi and Python and JavaScript Developer</h6>
+<h6 align="left">Python and JavaScript Developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-js1211&label=Profile%20views&color=0e75b6&style=flat" alt="python-js1211" /> </p>
 
